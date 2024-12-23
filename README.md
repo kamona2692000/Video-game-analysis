@@ -27,12 +27,6 @@ This project analyzes a dataset of over 16,000 video games from 1980 to 2020. Th
 - **Python**
 - **Libraries**: Pandas, Matplotlib, Seaborn
 
-## What I Learned
-
-This project helped me improve my skills in:
-- Data cleaning and analysis
-- Data visualization
-- Python programming
 
 It also demonstrated the power of data in understanding trends in industries like gaming.
 
